@@ -1,0 +1,6 @@
+"""
+polymophism- more than one form or many times
+   method overloading- same method name but different number of parameters (not supported by python)
+   #method overriding- child class redefine the method that is already defined in parent class
+
+"""

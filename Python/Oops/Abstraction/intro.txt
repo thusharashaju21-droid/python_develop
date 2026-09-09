@@ -1,0 +1,4 @@
+Abstraction - hide implementation detal and displays only essential detils
+  
+####abstract classil olla ella methods um inherit chythu classil define  chyithittundakanm
+

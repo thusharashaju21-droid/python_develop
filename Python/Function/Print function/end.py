@@ -1,0 +1,5 @@
+print("first",end=" ")
+print("line")
+print("second",end=" ")
+print("line")
+print("end")

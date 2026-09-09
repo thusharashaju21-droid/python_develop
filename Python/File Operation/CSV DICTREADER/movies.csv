@@ -1,0 +1,41 @@
+ID,Title,Language,Year,RunTime,Rating,Genre
+1,The Shawshank Redemption,English,1994,142,9.3,Drama
+2,The Godfather,English,1972,175,9.2,Crime
+3,The Dark Knight,English,2008,152,9.0,Action
+4,12 Angry Men,English,1957,96,9.0,Crime
+5,Schindler's List,English,1993,195,9.0,Biography
+6,The Lord of the Rings: The Return of the King,English,2003,201,9.0,Adventure
+7,Pulp Fiction,English,1994,154,8.9,Crime
+
+9,Fight Club,English,1999,139,8.8,Drama
+10,Inception,English,2010,148,8.8,Sci-Fi
+11,Manichitrathazhu,Malayalam,1993,169,8.8,Horror
+12,Spirited Away,Japanese,2001,125,8.6,Animation
+13,Seven Samurai,Japanese,1954,207,8.6,Action
+14,Interstellar,English,2014,169,8.7,Sci-Fi
+15,Parasite,Korean,2019,132,8.5,Thriller
+16,Life Is Beautiful,Italian,1997,116,8.6,Drama
+17,City of God,Portuguese,2002,130,8.6,Crime
+18,Saving Private Ryan,English,1998,169,8.6,War
+19,Nayakan,Tamil,1987,145,8.6,Crime
+20,The Green Mile,English,1999,189,8.6,Drama
+21,Intouchables,French,2011,112,8.5,Comedy
+22,Cinema Paradiso,Italian,1988,155,8.5,Drama
+23,Whiplash,English,2014,106,8.5,Drama
+24,The Prestige,English,2006,130,8.5,Mystery
+25,Gladiator,English,2000,155,8.5,Action
+26,Kumbalangi Nights,Malayalam,2019,135,8.5,Drama
+27,3 Idiots,Hindi,2009,170,8.4,Comedy
+28,Dangal,Hindi,2016,161,8.3,Action
+29,Drishyam,Malayalam,2013,160,8.3,Thriller
+30,Amélie,French,2001,122,8.3,Comedy
+31,Pan's Labyrinth,Spanish,2006,118,8.2,Fantasy
+32,Vikram Vedha,Tamil,2017,147,8.2,Action
+33,Oldboy,Korean,2003,120,8.4,Action
+34,Lagaan,Hindi,2001,224,8.1,Drama
+35,Anbe Sivam,Tamil,2003,160,8.6,Drama
+36,Harakiri,Japanese,1962,133,8.6,Action
+37,A Separation,Persian,2011,123,8.3,Drama
+38,The Pianist,English,2002,150,8.5,Biography
+39,Rear Window,English,1954,112,8.5,Mystery
+40,Psycho,English,1960,109,8.5,Horror

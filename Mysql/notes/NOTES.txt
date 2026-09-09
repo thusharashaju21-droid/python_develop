@@ -1,0 +1,75 @@
+------->>#Password@123----
+
+Python → Used for data processing.
+Database → Used to store data.
+DBMS → Used to manage databases.
+
+>NoSQL → Non-relational database. Example: MongoDB.
+>RDBMS → Relational database that stores data in tables. Examples: MySQL, PostgreSQL, SQLite.
+
+-SQL → A language used to communicate with and manage databases.
+
+
+>>>int,float,decimal,char,varchar,bool,DATATIME,enum(choices)<<<
+| Data Type  | Meaning                             | Example               |
+| ---------- | ----------------------------------- | --------------------- |
+| `INT`      | Whole number                        | `25`, `100`, `-5`     |
+| `FLOAT`    | Decimal number                      | `10.5`, `25.75`       |
+| `DECIMAL`  | Accurate decimal value              | `999.99`              |
+| `CHAR`     | Fixed-length text                   | `'ABC'`               |
+| `VARCHAR`  | Variable-length text                | `'Thushara'`          |
+| `BOOL`     | True / False                        | `TRUE`, `FALSE`       |
+| `DATETIME` | Date + Time                         | `2026-08-21 11:30:00` |
+| `ENUM`     | Given choices-ൽ നിന്ന് മാത്രം value | `'male'`, `'female'`  |
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+| MySQL            | Meaning                                                | Easy way to remember      |
+| ---------------- | ------------------------------------------------------ | ------------------------- |
+| `NULL`           | Value ഇല്ല                                             | Empty value allowed       |
+| `NOT NULL`       | Value നിർബന്ധം                                         | Value must be entered     |
+| `UNIQUE`         | Duplicate അനുവദിക്കില്ല                                | No duplicates             |
+| `AUTO_INCREMENT` | Value automatic ആയി കൂടും                              | 1, 2, 3, 4...             |
+| `PRIMARY KEY`    | ഓരോ record-നും unique ID                               | Unique + identifies row   |
+| `DEFAULT`        | Value കൊടുത്തില്ലെങ്കിൽ default value വരും             | Backup/default value      |
+| `FOREIGN KEY`    | മറ്റൊരു table-ന്റെ primary key-നെ reference ചെയ്യുന്നു | Table-to-table connection |
+----------------------------------------------------------------------------------
+create database → database create
+use              → database select
+create table     → table create
+desc             → table structure
+insert           → add data
+select           → display data
+where            → filter
+update           → change
+delete           → remove
+----------------------------------------------------------------------------------
+=                → equal
+!= / <>          → not equal
+>                → greater
+<                → less
+>=               → greater/equal
+<=               → less/equal
+--------------------------------------------------------------------------------------------
+and              → both
+or               → either
+not              → opposite
+in               → multiple choices
+not in           → exclude choices
+between          → range
+-------------------------------------------------------------------------------------------------
+order by         → sorting
+asc              → low → high
+desc             → high → low
+limit            → number of records
+offset           → skip records
+======================================================================================================
+count            → count
+sum              → total
+max              → highest
+min              → lowest
+avg              → average
+========================================================================================================
+group by         → make groups
+having           → filter groups
+subquery         → query inside query

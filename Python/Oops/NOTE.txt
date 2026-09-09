@@ -1,0 +1,70 @@
+
+#oops - a way of programming to convert a real world object to program using class and object
+
+#class - plan, templete,design pattern,blueprint for creating (real world) object
+
+#object - realworld entity (built using class)
+
+#self -using current instance to point
+
+#constructor -initialize attributes
+          special_name => __init__
+    Automatically called while creating object of a class
+
+#inheritance-    
+
+
+#super -inherit constructor in parent  class -child class inside call
+         super(),__init__(attribute)
+
+
+
+
+
+           
+#def set_method(self,values)-initialize
+#self variable=values
+
+class ClassName:
+
+   #attributes
+
+       attribute:(type)
+       attribute:(type)
+       attribute:(type)
+       attribute:(type)
+
+#method
+    def  set_method(self,values) :
+
+       self.attribute=values
+       self.attribute=values
+       self.attribute=values
+       self.attribute=values
+
+    def get_method(self):
+        display
+
+#object
+
+object1=ClassName()
+
+#method call
+object1.method_name(value1,value2)
+
+object1.get_method()
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
